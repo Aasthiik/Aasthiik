@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Aasthiik">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%24+whoami;AASTHIK+KUMAR+%E2%80%94+Software+%26+Data+Developer;%24+cat+focus.txt;Building+ML+systems%2C+REST+APIs%2C+NLP+pipelines;%24+status+--current;Hunting+first+role+in+Data+Analytics%2C+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%24+whoami;AASTHIK+KUMAR+%E2%80%94+Software+%26+Data+Developer;%24+cat+focus.txt;Building+ML+systems%2C+REST+APIs%2C+NLP+pipelines;%24+status+--current;Hunting+first+role+in+Data+Analytics%2C+AI%2FML" alt="Typing SVG" width="700" />
 </a>
 
 <br/>
@@ -94,7 +94,7 @@ const aasthik = {
 <summary><b>🛡️ Healthcare Cybersecurity ML Intrusion Detection System</b></summary>
 <br/>
 
-**Live:** [healthcare-cybersecurity-intrusion-wg80.onrender.com](https://healthcare-cybersecurity-intrusion-wg80.onrender.com) · **Repo:** [github.com/Aasthiik/Healthcare-Cybersecurity-ML](https://github.com/Aasthiik)
+**Live:** [healthcare-cybersecurity-intrusion-wg80.onrender.com](https://healthcare-cybersecurity-intrusion-wg80.onrender.com) · **Repo:** [github.com/Aasthiik/Healthcare-Cybersecurity-ML](https://github.com/Aasthiik/Healthcare-Cybersecurity-ML)
 
 | Stack | Scale | Impact |
 |:--|:--|:--|
@@ -235,9 +235,9 @@ const aasthik = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aasthiik&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aasthiik&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub stats" width="49%" loading="lazy"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasthiik&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasthiik&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" width="49%" loading="lazy"/>
 
 </div>
 
@@ -247,23 +247,7 @@ const aasthik = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aasthiik&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## `$ summary --full`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aasthiik&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aasthiik&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aasthiik&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aasthiik&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aasthiik&theme=github_dark&utcOffset=5.5" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aasthiik&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution activity graph" width="100%" loading="lazy"/>
 
 </div>
 
@@ -297,15 +281,10 @@ target_companies:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://linkedin.com/in/aasthik-kumar)
-[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](mailto:aasthik452@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://github.com/Aasthiik)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D9FF&labelColor=0D1117&color=00D9FF)](https://leetcode.com/u/Aasthiik)
+[LinkedIn](https://linkedin.com/in/aasthik-kumar) · [Email](mailto:aasthik452@gmail.com) · [GitHub](https://github.com/Aasthiik) · [LeetCode](https://leetcode.com/u/Aasthiik)
 
 <br/>
 
 *"Building ML systems that learn. Shipping code that scales. Connecting insights with impact."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer"/>
 
 </div>
